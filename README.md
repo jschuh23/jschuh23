@@ -22,11 +22,11 @@ web development and design. My previous work experiences have honed my problem s
 
 - [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)  
   May 2020-present
-- [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  
+- [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  
   Jun 2020-present
-- [Advanced CSS & SASS](https://www.udemy.com/course/advanced-css-and-sass/)  
+- [Advanced CSS & SASS: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)  
   Jul 2020-present
-- [Modern HTML & CSS, including SASS](https://www.udemy.com/course/modern-html-css-from-the-beginning/)  
+- [Modern HTML & CSS from the beginning (including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning/)  
   Aug-Oct 2020
 
 ### Technical Skills
@@ -41,6 +41,11 @@ web development and design. My previous work experiences have honed my problem s
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]
-[<img align="left" alt="Windows" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />]
+[<img align="left" alt="Windows" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" />]
 
 ---
+
+### Connect With Me
+
+[<img align="left" alt="Janelle Schuh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt="Janelle Schuh | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />]
