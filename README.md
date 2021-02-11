@@ -44,6 +44,7 @@ web development and design. My previous work experiences have honed my problem s
 [<img align="left" alt="Windows" width="40px" src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" />]
 
 <br/>
+<br/>
 
 ## Connect With Me
 
