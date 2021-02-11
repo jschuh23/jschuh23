@@ -1,13 +1,9 @@
 # Janelle Schuh
 
-### Front-End Web Development & Design
-
 In May 2020,after working more than 20 years in the animal care field, I began my journey into the field of
 web development and design. My previous work experiences have honed my problem solving and written/verbal communication abilities. I can effectively self-manage during independent projects and also enjoy collaborating in a team setting. I am a highly-motivated, self-sufficient fast learner with a strong work ethic and have been working diligently this past year to learn front-end web development and design!
 
----
-
-### Education
+## Education
 
 - University of California, Santa Cruz  
    Bachelor of Arts - Marine Biology  
@@ -16,9 +12,7 @@ web development and design. My previous work experiences have honed my problem s
    CS101 Computer Science  
    May 2020
 
----
-
-### Udemy Courses
+## Udemy Courses
 
 - [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)  
   May 2020-present
@@ -29,9 +23,7 @@ web development and design. My previous work experiences have honed my problem s
 - [Modern HTML & CSS from the beginning (including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning/)  
   Aug-Oct 2020
 
----
-
-### Technical Skills
+## Technical Skills
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
@@ -45,13 +37,9 @@ web development and design. My previous work experiences have honed my problem s
 [<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />]
 [<img align="left" alt="Windows" width="26px" src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" />]
 
----
+[![Janelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jschuh23)](https://github.com/jschuh23/github-readme-stats)
 
-### GitHub Stats
-
-[!(https://github-readme-stats.vercel.app/api?username=jschuh23)](https://github.com/jschuh23/github-readme-stats)
-
-### Connect With Me
+## Connect With Me
 
 [<img align="left" alt="Janelle Schuh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/janelle-schuh)
 [<img align="left" alt="Janelle Schuh | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/jschuh23)
