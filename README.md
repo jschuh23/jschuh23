@@ -1,6 +1,6 @@
 # Janelle Schuh
 
-## Front-End Web Development & Design
+### Front-End Web Development & Design
 
 In May 2020,after working more than 20 years in the animal care field, I began my journey into the field of
 web development and design. My previous work experiences have honed my problem solving and written/verbal communication abilities. I can effectively self-manage during independent projects and also enjoy collaborating in a team setting. I am a highly-motivated, self-sufficient fast learner with a strong work ethic and have been working diligently this past year to learn front-end web development and design!
@@ -47,7 +47,11 @@ web development and design. My previous work experiences have honed my problem s
 
 ---
 
+### GitHub Stats
+
+[!(https://github-readme-stats.vercel.app/api?username=jschuh23)](https://github.com/jschuh23/github-readme-stats)
+
 ### Connect With Me
 
-[<img align="left" alt="Janelle Schuh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](www.linkedin.com/in/janelle-schuh)
+[<img align="left" alt="Janelle Schuh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/janelle-schuh)
 [<img align="left" alt="Janelle Schuh | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/jschuh23)
