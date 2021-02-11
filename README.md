@@ -20,14 +20,14 @@ web development and design. My previous work experiences have honed my problem s
 
 ### Udemy Courses
 
-- The Web Developer Bootcamp  
-   May 2020-present
-- The Complete 2020 Web Development Bootcamp  
-   Jun 2020-present
-- Advanced CSS & SASS  
-   Jul 2020-present
-- Modern HTML & CSS, including SASS  
-   Aug-Oct 2020
+- [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/)  
+  May 2020-present
+- [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  
+  Jun 2020-present
+- [Advanced CSS & SASS](https://www.udemy.com/course/advanced-css-and-sass/)  
+  Jul 2020-present
+- [Modern HTML & CSS, including SASS](https://www.udemy.com/course/modern-html-css-from-the-beginning/)  
+  Aug-Oct 2020
 
 ### Technical Skills
 
