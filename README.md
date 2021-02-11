@@ -7,7 +7,7 @@ web development and design. My previous work experiences have honed my problem s
 
 ---
 
-### Education & Courses
+### Education
 
 - University of California, Santa Cruz  
    Bachelor of Arts - Marine Biology  
@@ -18,7 +18,18 @@ web development and design. My previous work experiences have honed my problem s
 
 ---
 
-### Technical skills
+### Udemy Courses
+
+- The Web Developer Bootcamp  
+   May 2020-present
+- The Complete 2020 Web Development Bootcamp  
+   Jun 2020-present
+- Advanced CSS & SASS  
+   Jul 2020-present
+- Modern HTML & CSS, including SASS  
+   Aug-Oct 2020
+
+### Technical Skills
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
