@@ -1,7 +1,6 @@
 # Janelle Schuh
 
-In May 2020,after working more than 20 years in the animal care field, I began my journey into the field of
-web development and design. My previous work experiences have honed my problem solving and written/verbal communication abilities. I can effectively self-manage during independent projects and also enjoy collaborating in a team setting. I am a highly-motivated, self-sufficient fast learner with a strong work ethic and have been working diligently this past year to learn front-end web development and design!
+I am a self-taught frontend web developer passionate about design and accessibility. I have experience building mobile-first websites using semantic HTML, CSS, Sass and, most recently, JavaScript. Additionally, I have more than ten years of professional management experience which has enhanced my leadership skills, problem solving capabilities and written/verbal communication techniques. I enjoy collaborating in a team setting and can also effectively self-manage during independent projects. Overall, I am a highly-motivated, self-sufficient fast learner with a strong work ethic and am dedicated toward my new career pursuit.    
 
 <br/>
 
