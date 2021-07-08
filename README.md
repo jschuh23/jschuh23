@@ -22,7 +22,7 @@ I am a self-taught frontend web developer passionate about design and accessibil
 - [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  
   Jun 2020-present
 - [Advanced CSS & SASS: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)  
-  Jul 2020-present
+  Jul 2020-June 2021
 - [Modern HTML & CSS from the beginning (including SASS)](https://www.udemy.com/course/modern-html-css-from-the-beginning/)  
    Aug-Oct 2020
 
