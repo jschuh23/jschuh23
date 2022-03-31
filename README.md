@@ -21,7 +21,7 @@ I am a self-taught frontend web developer and designer. I have experience buildi
   May 2020 - present
 - [The Complete 2021 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)  
   Jun 2020 - present
-- [Complete Web & Mobile Designer in 2022: UI/UX, Figma, and more](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/)
+- [Complete Web & Mobile Designer in 2022: UI/UX, Figma, and more](https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/)</br>
   Nov 2021 - Jan 2022
 - [Advanced CSS & SASS: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)  
   Jul 2020 - Jun 2021
