@@ -1,6 +1,6 @@
 # Janelle Schuh
 
-I am a self-taught frontend web developer and designer. I have experience building mobile-first websites using Figma, semantic HTML, CSS, Sass and, most recently, JavaScript. Additionally, I have more than ten years of professional management experience which has enhanced my leadership skills, problem solving capabilities and written/verbal communication techniques. I enjoy collaborating in a team setting and can also effectively self-manage during independent projects. Overall, I am a highly-motivated, self-sufficient fast learner with a strong work ethic and am dedicated toward my new career pursuit.    
+I am a self-taught frontend web developer. I have experience building mobile-first websites using Figma, semantic HTML, CSS, Sass and, most recently, JavaScript. Additionally, I have more than ten years of professional management experience which has enhanced my leadership skills, problem solving capabilities and written/verbal communication techniques. I enjoy collaborating in a team setting and can also effectively self-manage during independent projects. Overall, I am a highly-motivated, self-sufficient fast learner with a strong work ethic and am dedicated toward my new career pursuit.    
 
 <br/>
 
