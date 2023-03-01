@@ -60,7 +60,6 @@ I am a self-taught frontend web developer. I have experience building mobile-fir
 ## Connect With Me
 
 [<img align="left" alt="Janelle Schuh | LinkedIn" width="30px" src="https://avatars.githubusercontent.com/u/357098?s=200&v=4" />](https://www.linkedin.com/in/janelle-schuh)
-[<img align="left" alt="Janelle Schuh | Twitter" width="30px" src="https://avatars.githubusercontent.com/u/50278?s=200&v=4" />](https://twitter.com/janelleschuh)
 [<img align="left" alt="Janelle Schuh | GitHub" width="30px" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" />](https://github.com/jschuh23)
 <br/>
 
